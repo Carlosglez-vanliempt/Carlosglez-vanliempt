@@ -6,6 +6,7 @@
 - 🌱 I’m currently learning Trading, Data Analytics, Machine Learning
 
 ![Carlosglez-vanliempt GitHub stats](https://github-readme-stats.vercel.app/api?username=Carlosglez-vanliempt&show_icons=true&theme=dark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Carlosglez-vanliempt)]
 
 <!--
 **Carlosglez-vanliempt/Carlosglez-vanliempt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
