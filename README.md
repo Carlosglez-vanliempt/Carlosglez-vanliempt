@@ -5,3 +5,8 @@
   - Sentimental BTC Tweet Analyzer & studying it correlation with the market price
 - 🌱 I’m currently learning Trading, Data Analytics, Machine Learning
 
+
+
+<br><br>
+
+ <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Carlosglez-vanliempt&theme=dark">
